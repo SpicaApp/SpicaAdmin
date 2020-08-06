@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SpicaAdmin/static/css/main.d483a227.chunk.css",
+    "main.js": "/SpicaAdmin/static/js/main.79a54fe0.chunk.js",
+    "main.js.map": "/SpicaAdmin/static/js/main.79a54fe0.chunk.js.map",
+    "runtime-main.js": "/SpicaAdmin/static/js/runtime-main.8f593db2.js",
+    "runtime-main.js.map": "/SpicaAdmin/static/js/runtime-main.8f593db2.js.map",
+    "static/js/2.2120c3d2.chunk.js": "/SpicaAdmin/static/js/2.2120c3d2.chunk.js",
+    "static/js/2.2120c3d2.chunk.js.map": "/SpicaAdmin/static/js/2.2120c3d2.chunk.js.map",
+    "index.html": "/SpicaAdmin/index.html",
+    "precache-manifest.746f737d254cea88005fa72107821dd7.js": "/SpicaAdmin/precache-manifest.746f737d254cea88005fa72107821dd7.js",
+    "service-worker.js": "/SpicaAdmin/service-worker.js",
+    "static/css/main.d483a227.chunk.css.map": "/SpicaAdmin/static/css/main.d483a227.chunk.css.map",
+    "static/js/2.2120c3d2.chunk.js.LICENSE.txt": "/SpicaAdmin/static/js/2.2120c3d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f593db2.js",
+    "static/js/2.2120c3d2.chunk.js",
+    "static/css/main.d483a227.chunk.css",
+    "static/js/main.79a54fe0.chunk.js"
+  ]
+}
